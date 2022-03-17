@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on some projcets
 - 📫 You can reach me on Discord <b>Toffi#0540</b> or by mailing me at <b>toffi@toffi.cf</b>
 
--stats
+<p><img align="center" src="https://github-readme-stats.vercal.app/api/top-longs?username=xToffi&show_icons=true&locale=en&layout=compact" />
