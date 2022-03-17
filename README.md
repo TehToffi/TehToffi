@@ -22,4 +22,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xToffi)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/?username=xtoffi&count_private=true&theme=tokyonight&showicons=true
