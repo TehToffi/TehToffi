@@ -1,9 +1,10 @@
 # 👋 Hello
 
-- Hi, I’m @xToffi
-- I’m interested in Typescript React
-- I’m currently learning web- & app development
-- You can reach me on Discord: <b>Toffi#0540</b> or by mailing me at <b>toffi@toffi.cf</b>
+Hi, I've been coding for two year as a hobby. Mostly coding NodeJS, JavaScript, Typescript and React. I can make discord bots and websites.
+
+Gmail: toffi@toffi.cf
+Discord: Toffi#0540
+Fiverr: https://www.fiverr.com/javascrlpt
 
 ---
 
