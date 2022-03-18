@@ -23,9 +23,9 @@ Fiverr: https://www.fiverr.com/javascrlpt
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xtoffi&count_private=true&theme=tokyonight&showicons=true)]()
-
 ---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xtoffi&count_private=true&theme=tokyonight&showicons=true)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtoffi&theme=tokyonight)
 
