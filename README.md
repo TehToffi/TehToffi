@@ -1,4 +1,4 @@
-# 👋 Hello there
+# 👋 Hello
 
 - Hi, I’m @xToffi
 - I’m interested in Typescript React
