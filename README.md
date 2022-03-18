@@ -3,7 +3,9 @@
 Hi, I've been coding for two year as a hobby. Mostly coding NodeJS, JavaScript, Typescript and React. I can make discord bots and websites.
 
 Gmail: toffi@toffi.cf
+<br>
 Discord: Toffi#0540
+<br>
 Fiverr: https://www.fiverr.com/javascrlpt
 
 ---
