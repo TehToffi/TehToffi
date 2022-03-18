@@ -6,7 +6,7 @@ Gmail: toffi@toffi.cf
 <br>
 Discord: Toffi#0540
 <br>
-<a href="https://www.fiverr.com/javascrlpt">Fiverr</a>
+Fiverr: https://www.fiverr.com/javascrlpt">
 
 
 ---
