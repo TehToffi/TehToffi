@@ -1,7 +1,3 @@
-# 👋 Hello
-
-Hi, I've been coding for two year as a hobby. Mostly coding NodeJS, JavaScript and Typescript. I can make discord bots and websites.
-
 Gmail: toffi@toffi.cf
 <br>
 Discord: Toffi#0540
