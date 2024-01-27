@@ -1,10 +1,4 @@
-Gmail: toffi@toffi.cf
-<br>
-Discord: Toffi#0540
-<br>
-Fiverr: https://www.fiverr.com/javascrlpt
-
-
+Mail: toffi@toffi.cf
 ---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xtoffi&count_private=true&theme=tokyonight&showicons=true)]()
